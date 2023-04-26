@@ -10,7 +10,7 @@ Imagens do resultado final
 [<img src="mobile.gif">]
 
 ### Desktop
-[<img src="desktop.png">]
+[<img src="desktop.PNG">]
 
 ## Tecnologia utilizadas
 - HTML
